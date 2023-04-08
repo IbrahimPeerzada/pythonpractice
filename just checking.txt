@@ -1,14 +1,14 @@
 This is the new branch I am currently working on. 
 
 
-This  
-is 
-my 
-first 
-project
-on 
-GitHub
-just
-for
-practice. 
+I need to add bunch of things here. 
+
+colours 
+
+black
+blue 
+green 
+yellow
+purple
+
 
